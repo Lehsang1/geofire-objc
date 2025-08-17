@@ -1,9 +1,9 @@
 PODS:
   - Firebase/CoreOnly (7.8.1):
     - FirebaseCore (= 7.8.0)
-  - Firebase/Database (7.8.1):
+  - Firebase/Database (12.0.0):
     - Firebase/CoreOnly
-    - FirebaseDatabase (~> 7.8.0)
+    - FirebaseDatabase (~> 12.0.0)
   - FirebaseCore (7.8.0):
     - FirebaseCoreDiagnostics (~> 7.4)
     - GoogleUtilities/Environment (~> 7.0)
